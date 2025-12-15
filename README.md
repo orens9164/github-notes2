@@ -2,7 +2,7 @@
 keeps track of the history of your project and allows for collaboration. 
 
 ## Github
-the place where your repositorys and commits are, the basis for all of our code.
+the place where your repositorys and commits are, the basis for all of your code.
 
 ## Repo
 a place to store your files. can make commits to go back to later or to make changes easier.
